@@ -1,0 +1,10 @@
+# Android_DataSiswa_Finda
+
+# Tampilan awal DataSiswa_Finda
+![alt text](https://github.com/finda15/Android_DataSiswa_Finda/blob/master/ScreenShoot_DataSiswa_Finda/Screenshot_2019-04-04-19-49-41-47.png?raw=true)
+
+# Tampilan halaman Add
+![alt text](https://github.com/finda15/Android_DataSiswa_Finda/blob/master/ScreenShoot_DataSiswa_Finda/Screenshot_2019-04-04-19-49-48-54.png?raw=true)
+
+# Tampilan Add
+![alt text](https://github.com/finda15/Android_DataSiswa_Finda/blob/master/ScreenShoot_DataSiswa_Finda/Screenshot_2019-04-04-19-50-24-09.png?raw=true)
