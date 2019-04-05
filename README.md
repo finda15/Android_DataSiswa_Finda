@@ -17,3 +17,6 @@
 
 # Update
 ![alt text](https://raw.githubusercontent.com/finda15/Android_DataSiswa_Finda/master/ScreenShoot_DataSiswa_Finda/Screenshot_2019-04-05-07-59-21-88.png)
+
+# Tampilan Setelah Update
+![alt text](https://raw.githubusercontent.com/finda15/Android_DataSiswa_Finda/master/ScreenShoot_DataSiswa_Finda/Screenshot_2019-04-05-07-59-35-22.png)
